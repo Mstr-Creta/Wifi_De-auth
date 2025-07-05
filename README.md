@@ -31,8 +31,8 @@ The Wi-Fi Deauthentication Utility is a simple yet powerful command-line applica
 
 ```bash
 git clone https://github.com/Mstr-Creta/Wifi_De-auth
-cd deauther
-python3 deauther.py
+cd deauth
+python3 deauth.py
 ```
 
 > **Note:** You may need to run this tool with appropriate privileges (e.g., using `sudo`) depending on your OS and adapter configuration.
